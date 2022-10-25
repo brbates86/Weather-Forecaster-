@@ -18,3 +18,39 @@
     display: flex;
     flex-wrap: wrap;
 }
+
+.col1 {
+    width: 20%;
+    margin: 0 auto;
+}
+
+col2 {
+    width: 65%;
+    margin-right: auto;
+    margin-top: 1%;
+}
+
+body {
+    min-height: 100vh;
+}
+header {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    background-color: aliceblue;
+    background-image: linear-gradient(90deg, blue 13%, lightblue 45%, lightblue 85%); 
+}
+
+.h1 {
+    font-size: 3.5rem;
+    margin: 2rem auto;
+}
+
+h2 {
+    font-size: 5rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    margin-left: 2%;
+}
+
